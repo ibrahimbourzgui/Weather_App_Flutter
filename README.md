@@ -1,3 +1,9 @@
+<h3>Screenshot of the application</h3>
+<img src="https://user-images.githubusercontent.com/47062719/215266164-ef48c9ee-eb51-4aaf-af70-863621bf4251.jpg"
+     alt="UI of the App" width="220" height="420">
+
+
+
 # projets_flutter
 
 Fluuter app developed by Ibrahim Bourzgui of weather using open weather api
